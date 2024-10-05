@@ -1118,7 +1118,7 @@ textarea.input-field {
 .footer-form .btn {
   font-size: var(--fs-15);
   --height: 40px;
-  --padding-inline: 25px;
+  --padding-inline: 15px;
 }
 
 .footer-form .btn:is(:hover, :focus) {
