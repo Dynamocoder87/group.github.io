@@ -628,6 +628,7 @@ body.active {
 
 .hero .btn {
   margin-inline: auto;
+  padding-top:10px;
 }
 
 .hero .btn:is(:hover, :focus) {
